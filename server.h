@@ -8,6 +8,7 @@
 #include <string>
 #include <process.h>
 #include "sclient.h"
+#动态库
 
 using namespace std;
 #pragma comment(lib, "ws2_32.lib")			//动态库函数
